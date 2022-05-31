@@ -1,0 +1,89 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>An Overview of Stem Cells</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>50266e83-b849-4d76-8488-a19941f6b1aa</md:uuid>
+</metadata>
+  <content>
+    <section id="id-597296640545">
+      <title>Overview</title>
+      <para id="id2853398"><term><link document="m14759" target-id="stem">Stem cells</link></term> are cells that have the potential to replicate themselves for indefinite periods and to divide, producing one copy of themselves and one cell of a different type (<term><link document="m14759" target-id="differentiation">differentiation</link></term>). In humans, stem cells have been located in: the early stages of development after egg fertilization (around 5-6 days); the umbilical cord and placenta; and in several adult organs.</para>
+      <para id="id6530148">Regardless of their source all stem cells have two general properties:</para>
+      <list list-type="bulleted" id="id7780489">
+        <item><foreign>Stem cells are capable of dividing and renewing themselves for long periods</foreign><emphasis>.</emphasis> Unlike muscle cells, blood cells, or nerve cells – which do not replicate themselves – stem cells can divide continuously and keep their innate properties.</item>
+        <item><foreign>Stem cells are undifferentiated and can give rise to multiple cell-types.</foreign> Stem cells do not have any tissue-specific structures that allow them to perform specialized functions. They cannot carry molecules of oxygen through the bloodstream like red blood cells or release signals to other cells, such as permitting the body to move or speak, as nerve cells do. Although stem cells do not have any tissue-specific structures, they can give rise to differentiated cells, including red blood cells and nerve cells.</item>
+      </list>
+      <para id="id10653909">Stem cells have varying abilities to differentiate into different cell-types (see Figure 1). One type of stem cell can give rise to any other cell-type of a given organism (for example, an embryonic stem cell). Other stem cells can only give rise to cells of a given tissue type (for example, bone marrow can produce blood stem cells) or only give rise to a few cell-types in a given tissue.</para>
+      <para id="id9562112">Scientists are just beginning to understand the <term><link document="m14759" target-id="signals">signals</link></term> in a body which can trigger cell differentiation. These signals can be created within a cell, triggered by a cell’s genes, or by a neighboring cell that releases chemicals to promote differentiation in other cells. Determining what these signals are and what stem cells require to differentiate into different cell-types is a crucial research area which must be explored in order to utilize stem cells for therapies. </para>
+      <para id="id11111710">When cells differentiate, their abilities become more restricted. They often follow only a few prescribed pathways and can lose the capacity to replicate themselves. The ability of stem cells to replicate and remain unspecialized until they are needed is an important area of research vital to understanding human development.</para>
+      <para id="id3940384">Stem cells offer a new look at old problems and diseases such as burns and diabetes. Although the field is relatively new, the impact of new discoveries could profoundly change medical research and therapy. Many of these new approaches involve the use of <term><link document="m14759" target-id="scnt">somatic cell nuclear transfer</link></term> (sometimes known as <term><link document="m14759" target-id="thera">therapeutic cloning</link></term>) to produce recipient-specific tissue by creating embryonic stem cell lines.</para>
+      <para id="id3126120">This new area of research has great potential, but it is not without its controversies. Many ethical dilemmas are produced with the creation and destruction of human blastocysts as well as the potential to clone an entire human being (<term><link document="m14759" target-id="reproductive">reproductive cloning</link></term>). No matter where society designates the boundary to be for this research, or whether or not stem cells can live up to our high expectations, a great deal can be learned through careful and thoughtful studies.</para>
+      <figure id="id6836319"><title>The Potential Uses of Embryonic Stem Cells</title>
+<media id="idm3613664" alt=""><image src="../../media/ESC-flowchart.png" mime-type="image/png"/><image for="pdf" src="../../media/ESC-flowchart.eps" mime-type="application/postscript"/></media></figure>
+      <section id="id-267347173932">
+        <title>Embryonic Stem Cells</title>
+        <para id="id3881948"><term><link document="m14759" target-id="embryonic_stem_cell">Embryonic stem cells</link></term> are derived exclusively from a fertilized egg that has been grown <term><foreign><link document="m14759" target-id="virto">in vitro</link></foreign></term> for 5 to 6 days to form a <term><link document="m14759" target-id="blastocyst">blastocyst</link></term>. Within a blastocyst there is a small group of about 30 cells called the <term><link document="m14759" target-id="inner_cell">inner cell mass</link></term>, which will give rise to the hundreds of highly specialized cells needed to make up an adult organism. Embryonic stem cells are obtained from this inner cell mass. For research purposes, embryonic stem cells are produced specifically from eggs that have been fertilized in vitro, or in a laboratory and not inside a woman’s body, or <term><foreign><link document="m14759" target-id="vivo">in vivo</link></foreign></term>. Embryonic stem cells can come from a frozen fertilized egg or an egg which is fertilized in vitro.</para>
+        <para id="id3565702">Embryonic stem cells can and do differentiate into all the specialized cells in the adult body. They could be induced to provide an unlimited source of specific and clinically important adult cells such as bone, muscle, liver or blood cells (See Figure 2). </para>
+        <figure id="id3979967"><media id="idm621776" alt=""><image src="../../media/graphics2.PNG" mime-type="image/png"/><image for="pdf" src="../../media/graphics2.eps" mime-type="application/postscript"/></media>
+        </figure>
+      </section>
+      <section id="id-124181191131">
+        <title>Adult Stem Cells</title>
+        <para id="id11518126"><term><link document="m14759" target-id="adult">Adult stem cells</link></term> are unspecialized or undifferentiated cells found among specialized cells in an adult tissue or organ. In some adult tissues, such as in bone marrow, muscle, or brain tissue, discrete populations of adult stem cells generate replacements for cells that are lost through disease, injury, or normal wear and tear. Adult stem cells are thought to reside in an area of each tissue where they may remain <term><link document="m14759" target-id="quiescent">quiescent</link></term>, or non-dividing, for many years until they are activated by disease or tissue injury. Where they are found, adult stem cells consist of a very small population of cells within each tissue.</para>
+        <para id="id3495564">Some adult stem cells retain the ability to form into specialized tissues other than the one from which they originated. For example, blood (<term><link document="m14759" target-id="hemato">hematopoietic</link></term>) cells have not been proven to differentiate into nerve, skeletal muscle, cardiac muscle, or liver cells (see Figure 3). There is some evidence that brain stem cells can differentiate into blood or skeletal muscle cells. However, adult stem cells have a limited number of tissues they can differentiate into and do not have the same potential as embryonic stem cells to become any cell-type.</para>
+        <para id="id7929953">The environment that adult stem cells grow in has an important, but poorly understood, effect on their fate. The relationship between the adult stem cell environment and its ability to differentiate into other cell-types has also not been fully explained.</para>
+        <figure id="id8595147"><media id="idm4580080" alt=""><image src="../../media/graphics3.jpg" mime-type="image/jpeg" height="256" width="207"/></media>
+        </figure>
+      </section>
+      <section id="id-262725668558">
+        <title>Distinctions between Embryonic and Adult Stem Cells</title>
+        <para id="id3888161">Most importantly, adult and embryonic stem cells differ in the type of differentiated cells they can become. While embryonic stem cells can be induced to differentiate into any cell-type, adult stem cells cannot. Most adult cells can only differentiate into the types of cells found in their environment or in the particular tissue or organ where they reside. Therefore in many vital organs, adults do not have the stem cells necessary to regenerate damaged areas; thus scar tissue will develop instead.</para>
+        <para id="id3060043">Another key difference between embryonic and adult stem cells is the volume of cells one can isolate and grow <foreign>in vitro</foreign>. Large numbers of embryonic stem cells can be grown <foreign>in vitro</foreign> from a single blastocyst. On the contrary, adult stem cells are rare and methods of growing them still need to be perfected. In addition, due to their limited numbers, it is difficult to isolate a group of adult stem cells in pure form, without having them contaminated with differentiated cells. </para>
+      </section>
+    </section>
+    <section id="id-233479701942">
+      <title>Potential Uses of Stem Cells</title>
+      <figure id="id6834330"><media id="idm4492880" alt=""><image src="../../media/graphics4.jpg" mime-type="image/jpeg" height="159" width="438"/></media>
+      </figure>
+      <section id="id-387165241717">
+        <title>Stem Cells</title>
+        <para id="id3868803">While stem cell research is in its infancy and many of its proposed uses are hypothetical, the research has generated excitement among many scientists for its potential. One of the vital components of ongoing work is understanding the very nature of these cells; that is, to determine the conditions necessary to maintain undifferentiated stem cells as well as differentiating them along specific pathways. In order to truly determine whether or not these cells can be used therapeutically, more research must be conducted to understand the nature of the cells.</para>
+        <para id="id10841580">Although we are only beginning to discover what stem cells are capable of doing, scientists have proposed several potential uses.</para>
+        <list list-type="enumerated" id="id3507573"><item><emphasis>Abnormal Cell Division</emphasis><foreign>.</foreign> Many serious medical conditions, such as cancer and birth defects, are due to abnormal cell divisions or the inability of cells to turn themselves on and off properly. Having a better understanding of stem cells and their genetic and molecular controls would yield information about diseases and reveal potential strategies for therapies.</item>
+          <item><emphasis>Drug Testing.</emphasis> Stem cells could be used to test new drugs or medications by differentiating them to the particular cell-types that the drugs are targeting. This would offer a short-cut for scientists to sort out chemicals that can be used to treat diseases. By testing new drugs on stem cell lines, we could perform rapid screening of hundreds of thousands of chemicals that now are tested by more time-consuming processes. This could also potentially decrease the time that it takes to get a drug to market.</item>
+          <item><emphasis>Cell-Based Therapies</emphasis>. Stem cells could be used for <term><link document="m14759" target-id="cell_based">cell-based therapies</link></term>. Stem cells could be directed to differentiate to a specific cell-type that then could be used as a renewable source of replacement cells and tissues. In order to be useful for cell-based therapies, stem cells must be made to:</item>
+        </list>
+        <list list-type="bulleted" id="id3039451">
+          <item><foreign>Differentiate into desired cell-types</foreign>. It is necessary for stem cell techniques to be improved until they can consistently and efficiently differentiate into a specific cell or type of cells without contamination by undifferentiated or improperly differentiated cells.</item>
+        </list>
+        <list list-type="bulleted" id="id10494423">
+          <item><foreign>Proliferate extensively and generate sufficient quantities of tissue</foreign>. The protocols for differentiating stem cells need to be refined so that large quantities of tissue can be produced in a relatively efficient manner.</item>
+        </list>
+        <list list-type="bulleted" id="id3065787">
+          <item><foreign>Survive in the recipient after the transplant</foreign>. Scientists must determine that the cells are healthy and viable after transplantation. They also should establish that the stem cells are localized to the correct tissue in the recipient.</item>
+        </list>
+        <list list-type="bulleted" id="id3849435">
+          <item><foreign>Function appropriately for the duration of the recipient’s life</foreign>. Not only do the cells need to be localized and survive, but they must also behave like the original cells. Currently, there is not sufficient data showing that stem cells are functional in their new environment when they are transplanted into organs. For cell-based therapies to be successful, the new cells need to function correctly and interact properly with the original tissue.</item>
+        </list>
+        <list list-type="bulleted" id="id11476187">
+          <item><foreign>Avoid harming the patient in any way</foreign>. One concern about using undifferentiated cells or stem cells is the risk of the stem cells having genetic abnormalities which could cause them to be cancerous or to be rejected due to tissue immune incompatibility. Adequate testing is necessary to make sure the cells used are healthy.</item>
+        </list>
+      </section>
+      <section id="id-787669365524">
+        <title>Embryonic Stem Cells</title>
+        <para id="id11476068">One of the most promising uses for embryonic stem cells is the study of the complex events that occur during human development. The earliest stages of human development have previously been difficult or impossible to study. By using embryonic stem cells, these studies can be performed with the goal of preventing or treating birth defects, infertility, and pregnancy loss.</para>
+        <para id="id11476081">The use of embryonic stem cells can also help scientists identify how undifferentiated cells become differentiated. Since these cells have the ability to become any type of cell in the adult body, they have a larger potential for medically viable tissues which can be derived and used in cell-based therapies. </para>
+      </section>
+    </section>
+    <section id="id-62597854186">
+      <title>References and Further Suggested Readings</title>
+      <list list-type="enumerated" id="id11474661">
+        <item>International Society for Stem Cell Research: <link url="http://www.isscr.org/">http://www.isscr.org</link></item>
+        <item>NIH, Stem Cell Basics: <link url="http://stemcells.nih.gov/info/basics/">http://stemcells.nih.gov/info/basics/</link></item>
+        <item>National Research Council and Institute of Medicine. (2002) Stem Cells and the Future of Regenerative Medicine. Washington D.C.: National Academy Press: <link url="http://www.nap.edu/">http://www.nap.edu</link>. </item>
+        <item>Embryonic Stem Cell Research at the University of Wisconsin-Madison: <link url="http://www.news.wisc.edu/packages/stemcells/facts.html#1">http://www.news.wisc.edu/packages/stemcells/facts.html#1</link></item>
+        <item>National Parkinson Foundation: <link url="http://www.parkinson.org/">http://www.parkinson.org</link>. </item>
+        <item>Juvenile Diabetes Research Foundation: <link url="http://www.jdrf.org/">http://www.jdrf.org</link>. </item>
+        <item>Wilmut, I., et. al. (1997) Viable Offspring Derived from Fetal and Adult Mammalian Cells. Nature 385:810-13.</item>
+      </list>
+    </section><para id="element-657">To contact us, please visit our <link document="m14763">contact page</link>.</para>
+  </content>
+</document>

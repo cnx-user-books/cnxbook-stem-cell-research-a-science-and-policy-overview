@@ -1,0 +1,20 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Cloning</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>5d5b6681-0fe7-47c5-bbe4-c9ceacef7e80</md:uuid>
+</metadata>
+  <content>
+    <section id="id-960170826418">
+      <title>Cloning</title>
+      <para id="id8228545"><term><link document="m14759" target-id="scnt">Somatic cell nuclear transfer (SCNT)</link></term> is when the genetic material (<term><link document="m14759" target-id="nucleus">nucleus</link></term>) of an unfertilized egg is removed and replaced with the genetic material of a normal cell. The egg is then activated and allowed to grow. After it is allowed to grow into a <term><link document="m14759" target-id="blastocyst">blastocyst</link></term>, <term><link document="m14759" target-id="embryonic_stem_cell">embryonic stem cells</link></term> are obtained from the <term><link document="m14759" target-id="inner_cell">inner cell mass</link></term>. These embryonic stem cells can then be induced to become other differentiated cell-types. (See Figure 1)</para>
+      <para id="id8734230">Much of the promise for embryonic stem cells lies in the potential of <term><link document="m14759" target-id="derive">deriving</link></term> or creating cell lines which are specific to a person. This technique can be used to create cell lines and study the development of different diseases (sometimes called <term><link document="m14759" target-id="thera">therapeutic cloning</link></term>). For instance, by using a skin cell from a patient suffering with Parkinson’s disease one could create a cell line that would show the researcher how the cell progressed from a normal to a diseased state. Not only could scientists study specific genetic diseases, but they could also create tissues that are compatible with the original donor. </para>
+      <para id="id7430095">Further, this technique can also be used to create tissues that are recipient-specific. In organ and tissue transplantation, a great concern is the rejection of transplanted tissue by the recipients’ immune system. If new cell lines were created to be identical to the recipient, this would no longer be a problem.</para>
+      
+      <para id="element-34"><figure id="ESC-research"><title>Somatic Nuclear Cell Transfer</title>
+<media id="idp1066848" alt=""><image src="../../media/ESC-research.png" mime-type="image/png"/><image for="pdf" src="../../media/ESC-research.eps" mime-type="application/postscript"/></media>
+            </figure>
+	    </para><para id="id8752700"><term><link document="m14759" target-id="reproductive">Reproductive Cloning</link></term> is when an egg undergoes somatic cell nuclear transfer and the resulting cell is allowed to grow to an infant that is an exact genetic copy of the somatic cell donor. Attempts at reproductive cloning have been error-prone and inefficient, resulting in the failure of most clones to develop. The most famous clone, Dolly (a sheep), was only created after multiple attempts and failures and then lived a shortened life (Wilmut et al, 1997).</para>
+      <para id="id8851138">Another option for creating stem cells without using egg cells has been discovered in mice. When four specific genes are added to a normal cell (such as a skin cell) the cell become deprogrammed, and regains its ability to be differentiated into many different types of tissue and to divide indefinitely. This innovative procedure has problematic aspects though; one of the necessary genes contributes to cancer in some of the mice studied, and genes are introduced into the skin cells by way of a retrovirus, which may also cause adverse effects in any tissue cultures grown using this method. However, if this procedure were ever adapted to human cells, the issue of immune rejection of grafted tissue would be eliminated, as the stem cells are genetically identical to the donor cells.</para>
+      <para id="id7735832">To visit us, please visit our <link document="m14763">contact page</link>.</para>
+    </section>
+  </content>
+</document>

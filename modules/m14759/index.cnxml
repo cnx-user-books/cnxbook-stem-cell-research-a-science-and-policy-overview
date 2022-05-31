@@ -1,0 +1,259 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Glossary</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>bddf3f55-2011-4d41-b84b-8f2124e7abf1</md:uuid>
+</metadata>
+  <content>
+    <section id="id-0340216712188">
+      <title>Alphabet</title>
+      <para id="id9309789"><term target-id="adult">A</term> <term target-id="beta">B</term> <term target-id="cell_based">C</term> <term target-id="DHHS">D</term> <term target-id="embryo">E</term> <term target-id="fetus">F</term> <term target-id="gam">G</term> <term target-id="hemato">H</term> <term target-id="inner_cell">I</term> <term target-id="juvenile">J</term> <term>K</term> <term>L</term> <term>M</term> <term target-id="NBAC">N</term> <term target-id="oocyte">O</term> <term target-id="pluri">P</term> <term target-id="quiescent">Q</term> <term target-id="reproductive">R</term> <term target-id="signals">S</term> <term target-id="thera">T</term> <term target-id="undiff">U</term> <term>V</term> <term>W</term> <term>X</term> <term>Y</term> <term target-id="zygote">Z</term></para>
+    </section>
+  </content>
+  <glossary id="glossary1">
+   <definition id="adult">
+     <term>Adult Stem Cells</term>
+     <meaning id="idp188240">
+      An unspecialized or undifferentiated cell found among specialized cells in a tissue or organ, which can renew itself and differentiate into a specialized cell.
+     </meaning>
+   </definition>
+   <definition id="auto">
+     <term>Autoimmune Disease</term>
+     <meaning id="idm13089248">
+        A disease where one own body starts attacking itself and destroying itw own cells.
+     </meaning>
+   </definition>
+   <definition id="beta">
+     <term>ß-cell</term>
+     <meaning id="idm12412624">
+        A cell in the pancreas which is responsible responsible for the production and regulation of insulin.
+     </meaning>
+   </definition>
+   <definition id="blastocyst">
+     <term>Blastocyst</term>
+     <meaning id="idm4291168">
+       A pre-implanted embryo of 30-150 cells that is 5-6 days old.
+     </meaning>
+   </definition>
+   <definition id="cell_based">
+     <term>Cell-Based Therapies</term>
+     <meaning id="idm5034976">
+        Treatment in which stem cells are induced to differentiate into the specific cell type required to repair damaged or depleted adult cell populations or tissues.
+     </meaning>
+   </definition>
+   <definition id="characterizing">
+     <term>Characterizing Stem Cells</term>
+     <meaning id="idm4431280">
+        Determining how a cell grows, where the cell came from, how it was derived, and if there are any chromosomal abnormalities.
+     </meaning>
+   </definition>
+   <definition id="clone">
+     <term>Cloning</term>
+     <meaning id="idm4876880">
+        In biology, it is the act of producing an exact copy of a sequence of DNA, cell, tissue, or organism.
+     </meaning>
+   </definition>
+   <definition id="DHHS">
+     <term>Department of Human and Health Services (DHHS)</term>
+     <meaning id="idm3607968">
+        The United States government's principal agency for protecting the health of all Americans. It provides essential human services, especially for those who are least able to help themselves.
+     </meaning>
+   </definition>
+   <definition id="derive">
+     <term>Deriving</term>
+     <meaning id="idm4137312">
+        The creation of a cell line from one original cell or set of cells.
+     </meaning>
+   </definition>
+   <definition id="differentiation">
+     <term>Differentiation</term>
+     <meaning id="idm6450320">
+        The process of unspecialized cells transforming into specialized cells.
+     </meaning>
+   </definition>
+   <definition id="embryo">
+     <term>Embryo</term>
+     <meaning id="idp725968">
+        In humans, the developing organism from the time of fertilization until the end of the eighth week, when it becomes known as a fetus.
+     </meaning>
+   </definition>
+   <definition id="embryonic_stem_cell">
+     <term>Embryonic Stem Cell</term>
+     <meaning id="idm7367648">
+       An unspecialized or undifferentiated cell found in the inner cell mass of a blastocyst, which can renew itself and differentiate into a specialized cell.
+     </meaning>
+   </definition>
+   <definition id="endo">
+     <term>Endoderm</term>
+     <meaning id="idm3973168">
+        The internal layer of cells of an embryo; eventually gives rise to the digestive tract, lungs, and associated structures.
+     </meaning>
+   </definition>
+   <definition id="fetus">
+     <term>Fetus</term>
+     <meaning id="idp478992">
+        A developing human from the eighth week after fertilization to birth.
+     </meaning>
+   </definition>
+   <definition id="gam">
+     <term>Gamete</term>
+     <meaning id="idp869280">
+        A mature sexual reproductive cell (sperm or egg) having a single set of unpaired chromosomes.
+     </meaning>
+   </definition>
+   <definition id="hemato">
+     <term>Hematopoetic Stem Cell</term>
+     <meaning id="idm945216">
+       An adult stem cell from which all white and red blood cells evolve.
+     </meaning>
+   </definition>
+   <definition id="HFEA">
+     <term>Human Fertilisation and Embrology Authority (HFEA)</term>
+     <meaning id="idm12756752">
+        The governmental authority in the United Kingdom that regulates in vitro fertilization and embryo research.
+     </meaning>
+   </definition>
+   <definition id="inner_cell">
+     <term>Inner Cell Mass</term>
+     <meaning id="idm13618112">
+        A small group of about 30 cells in a blastocyst which will give rise to the hundreds of highly specialized cells needed to make up an adult organism; embryonic stem cells are derived from this group.
+     </meaning>
+   </definition>
+   <definition id="insulin">
+     <term>Insulin</term>
+     <meaning id="idm14048992">
+        A hormone in the body that balances blood sugar levels.
+     </meaning>
+   </definition>
+   <definition id="vitro">
+     <term>In Vitro</term>
+     <meaning id="idm94928">
+        From the Latin for "in glass"; in a laboratory dish, test tube, or artificial environment.
+     </meaning>
+   </definition>
+   <definition id="ivf">
+     <term>In Vitro Fertilization (IVF)</term>
+     <meaning id="idm832032">
+        An assisted reproduction technique in which fertilization is accomplished outside the body.
+     </meaning>
+   </definition>
+   <definition id="vivo">
+     <term>In Vivo</term>
+     <meaning id="idp7762368">
+        In the living subject; the natural environment.
+     </meaning>
+   </definition>
+   <definition id="juvenile">
+     <term>Juvenile Diabetes</term>
+     <meaning id="idm13245984">
+        Also known as type 1 diabetes, it is an autoimmune disease where the ß-cells in the pancreas are destroyed and therefore the individual loses some or all of his/her ability to regulate and produce insulin. If left untreated, it can have severe side effects such as kidney failure, blindness, stroke and even death.
+     </meaning>
+   </definition>
+   <definition id="NBAC">
+     <term>National Bioethics Advisory Council (NBAC)</term>
+     <meaning id="idm2816096">
+        A committee of experts during the Clinton administration that was formed in 1995 to provide advice and make recommendations to appropriate government entities related to bioethical issues. Their charter expired in October 2001.
+     </meaning>
+   </definition>
+   <definition id="NIH">
+     <term>National Institutes of Health (NIH)</term>
+     <meaning id="idm204192">
+        An agency of the Department of Human and Health Serves, its mission is the pursuit of knowledge about nature and behavior of living systems. It provides leadership and direction to programs designed to improve health by conducting and supporting research: in the causes, diagnosis, prevention, and cure of human diseases; in the processes of human growth and development; in the biological effects of environmental contaminants; in the understanding of mental, addictive and physical disorders; in directing programs for the collection, dissemination, and exchange of information in medicine and health, including the development and support of medical libraries and the training of medical librarians and other health information specialists.
+     </meaning>
+   </definition>
+   <definition id="nucleus">
+     <term>Nucleus</term>
+     <meaning id="idm1477696">
+        A structure within a living cell that contains the cell’s DNA and controls its metabolism, growth, and reproduction.
+     </meaning>
+   </definition>
+   <definition id="oocyte">
+     <term>Oocyte</term>
+     <meaning id="idm238320">
+        A female cell that develops into an ovum (egg) after meiosis; an egg before maturation.
+     </meaning>
+   </definition>
+   <definition id="ovum">
+     <term>Ovum</term>
+     <meaning id="idm3777120">
+        The female reproductive cell or egg (plural is ova).
+     </meaning>
+   </definition>
+   <definition id="pluri">
+     <term>Pluripotent</term>
+     <meaning id="idm104336">
+        The ability of a single cell to develop into many different cell types of the body.
+     </meaning>
+   </definition>
+   <definition id="PCB">
+     <term>President's Council on Bioethics (PCB)</term>
+     <meaning id="idm5516112">
+        A committee of experts during the Bush administration that was formed in 2001 (after the NBAC was disbanded) to provide the President with advice on bioethical issues that may emerge as a result of biomedical science and technology.
+     </meaning>
+   </definition>
+   <definition id="prolif">
+     <term>Proliferation</term>
+     <meaning id="idp296992">
+        Expansion of a population of cells by the continuous division of single cells into two identical cells.
+     </meaning>
+   </definition>
+   <definition id="quiescent">
+     <term>Quiescent</term>
+     <meaning id="idm6616880">
+        A cell that does not divide or replicate.
+     </meaning>
+   </definition>
+   <definition id="reproductive">
+     <term>Reproductive Cloning</term>
+     <meaning id="idp598832">
+        When an egg undergoes somatic cell nuclear transfer and the resulting cell is allowed to grow to an infant that is an exact copy of the donor.
+     </meaning>
+   </definition>
+   <definition id="signals">
+     <term>Signals</term>
+     <meaning id="idm13572576">
+        Internal and external factors that control the changed in cell structure and function.
+     </meaning>
+   </definition>
+   <definition id="smooth">
+     <term>Smooth Muscle</term>
+     <meaning id="idp1638080">
+        Also known as “involuntary muscle,” these muscles perform automatic tasks such as peristalsis and blood vessel constriction. Named smooth muscle because of smooth, rather than striated, appearance under a microscope.
+     </meaning>
+   </definition>
+   <definition id="soma_cell">
+     <term>Somatic Cell</term>
+     <meaning id="idp736928">
+        Any cell of a plant or animal other than the germ (sperm or egg) cell.
+     </meaning>
+   </definition>
+   <definition id="scnt">
+      <term>Somatic Cell Nuclear Transfer (SCNT)</term>
+     <meaning id="idm2329984">
+         When the genetic material (nucleus) of an egg is removed and replaced with the genetic material of a normal cell.
+     </meaning>
+   </definition>
+   <definition id="stem">
+     <term>Stem Cell</term>
+     <meaning id="idp3218592">
+        An unspecialized cell that can replicate itself for indefinite periods through cell division and under certain conditions becomes a specialized cell.
+     </meaning>
+   </definition>
+   <definition id="thera">
+     <term>Therapeutic Cloning</term>
+     <meaning id="idp652192">
+        When embryonic stem cells created by somatic cell nuclear transfer are studied in vitro and used for cell-based therapies, but never are implanted in a female or grown past 14 days.
+     </meaning>
+   </definition>
+   <definition id="undiff">
+     <term>Undifferentiated Cell</term>
+     <meaning id="idm5817552">
+        A primitive cell that does not have any tissue-specific structures that allows it to perform specialized functions.  It has not changed to become a specialized cell.
+     </meaning>
+   </definition>
+   <definition id="zygote">
+     <term>Zygote</term>
+     <meaning id="idm2358880">
+        The cell (and the organism that develops from the cell) resulting from the union of an ovum and spermatozoon (also referred to as a fertilized ovum).
+     </meaning>
+   </definition>
+  </glossary>
+</document>
